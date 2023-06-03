@@ -11,6 +11,12 @@ to utilize `Design Pattern` & `SDLC` (Software Development Life Cycle)
 : 1) Planning -> 2) Analysis -> 3) Design -> 4) Development -> 5) Testing -> 6) Maintenance  
 
 
+### Scope  
+
+- **System** : Off-line PizzaStore
+- **Menu** : only Pizza (except sidedish, beverage)  
+
+
 ### Schedule  
 
 1. **Planning** (5/31 ~ 6/1)  
