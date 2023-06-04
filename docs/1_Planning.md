@@ -1,5 +1,10 @@
 # Planning  
 
+- Outline  
+: plan [Purpose](#purpose), [Scope](#scope), [Schedual](#schedule)  </br></br>
+
+---
+
 ### Purpose  
 : implement **PizzaStore System**, with *javascript*,  
 to utilize `Design Pattern` & `SDLC` (Software Development Life Cycle)  
@@ -10,12 +15,14 @@ to utilize `Design Pattern` & `SDLC` (Software Development Life Cycle)
 - **SDLC**  
 : 1) Planning -> 2) Analysis -> 3) Design -> 4) Development -> 5) Testing -> 6) Maintenance  
 
+---
 
 ### Scope  
 
 - **System** : Off-line PizzaStore
 - **Menu** : only Pizza (except sidedish, beverage)  
 
+---
 
 ### Schedule  
 
@@ -38,3 +45,5 @@ to utilize `Design Pattern` & `SDLC` (Software Development Life Cycle)
 
 - **Study** (6/1 ~ 10)  
 : `Design pattern`, `Architecture`
+
+---
