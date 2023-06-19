@@ -1,16 +1,11 @@
-/*
-    메뉴 가격표 (~= Enum)
-
-    + PaymentTable <-연관-- Menu    (Menu추가 시 PaymentTable도 함께 추가)
-*/
-
+/* ----- 가격표 (~= Enum) ----- */
 const PaymentTable = {
     pizza : 10000,
     cheesePizza : 12000,
     pepperoniPizza : 12000,
     potatoPizza : 12000,
 
-    spaghetti : 8000,
+    tomatoSpaghetti : 8000,
 
     cheese : 2000,
     pepperoni : 2000,

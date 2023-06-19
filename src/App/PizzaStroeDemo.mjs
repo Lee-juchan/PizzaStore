@@ -1,8 +1,8 @@
-import menuManageMent from "../MenuManagement.mjs";
-import orderManagement from "../OrderManagement.mjs";
-import paymentManagement from "../PaymentManagement.mjs";
+import menuManageMent from "../MenuManagement/MenuManagement.mjs";
+import orderManagement from "../OrderManagement/OrderManagement.mjs";
+import paymentManagement from "../PaymentManagement/PaymentManagement.mjs";
 import Customer from "../Library/Customer.mjs";
-import PaymentMethod from "../Constants/PaymentMethod.mjs";
+import PaymentMethod from "../Library/Constants/PaymentMethod.mjs";
 
 
 // 불러온 관리객체 옮겨담기
@@ -23,7 +23,7 @@ mm.printMenu();
 // 메뉴 선택
 let menu1 = mm.chooseMenu("cheesePizza", "olive");
 let menu2 = mm.chooseMenu("potatoPizza", "pepperoni", "pineapple");
-let menu3 = mm.chooseMenu("spaghetti");
+let menu3 = mm.chooseMenu("tomatoSpaghetti");
 
 
 /* ----- 주문 관리 ----- */

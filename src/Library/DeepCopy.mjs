@@ -1,11 +1,4 @@
-/* 
-    객체복사 함수 (deepCopy)
-
-    + for Prototype Pattern
-
-    deepCopy <--연관-- MenuManagement의 PizzaList       (Pizza객체(=프로토타입)를 deepcopy해서 새로운 피자 생성)
-*/
-
+/* ----- 객체복사 함수 (deepCopy) ----- */
 const deepCopy = function (object) {
     // object 아니면, 바로 리턴
     if (object === null || typeof object !== "object") {
