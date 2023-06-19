@@ -5,7 +5,7 @@
 
 ---
 
-### Component Diagram    
+### Component Diagram  
 <img src="../UML/image/PizzaStore_Component.png" alt="ComponentDiagram" width="700">  
 
 1. **Access** via 3 external interfaces (FoodName, CustomerInfo, Text)  
